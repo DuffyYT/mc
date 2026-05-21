@@ -1,0 +1,50 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:iron_boots": 1,
+      "minecraft:iron_leggings": 1,
+      "minecraft:carrot": 3,
+      "minecraft:dirt": 7,
+      "minecraft:baked_potato": 2,
+      "minecraft:crafting_table": 1,
+      "minecraft:iron_helmet": 1,
+      "minecraft:iron_chestplate": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:carrot": 3
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 1,
+      "minecraft:crafting_table": 1,
+      "minecraft:grass_block": 8
+    },
+    "minecraft:used": {
+      "minecraft:baked_potato": 3,
+      "minecraft:carrot": 4,
+      "minecraft:crafting_table": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 2,
+      "minecraft:talked_to_villager": 1,
+      "minecraft:time_since_rest": 1336,
+      "minecraft:walk_one_cm": 52798,
+      "minecraft:leave_game": 2,
+      "minecraft:walk_under_water_one_cm": 157,
+      "minecraft:damage_taken": 164,
+      "minecraft:damage_dealt": 32,
+      "minecraft:play_time": 16805,
+      "minecraft:jump": 312,
+      "minecraft:time_since_death": 16805,
+      "minecraft:drop": 3,
+      "minecraft:sprint_one_cm": 63581,
+      "minecraft:open_chest": 11,
+      "minecraft:sleep_in_bed": 1,
+      "minecraft:fall_one_cm": 8219,
+      "minecraft:swim_one_cm": 14287,
+      "minecraft:total_world_time": 16805,
+      "minecraft:fly_one_cm": 39185,
+      "minecraft:walk_on_water_one_cm": 2493
+    }
+  },
+  "DataVersion": 4790
+}
